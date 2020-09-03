@@ -45,6 +45,8 @@
 <a href="https://www.linkedin.com/in/madhav-narayan-khullar-2290641b2/">
   <img align="left" alt="Sparsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
-</br>
+
+.
+
 ---
 ## Thankyou
