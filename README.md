@@ -28,10 +28,23 @@
 ### 7. Wait  for me to merge the repos :octocat:
 
 ---
-### :man_technologist: Contact Me On:
+#### :man_technologist: Contact Me On:
 
-[<img src="https://sourcerer.io/icons/logo-sharing.svg" width="100%" alt="Sourcerer"/>](https://sourcerer.io/madhav2108)|[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="100%"/>](https://www.instagram.com/madhav_narayan21/)|[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="100%"/>](https://www.linkedin.com/in/madhav-narayan-khullar-2290641b2/)
-:-----------------:|:--------------------:|:-------------:
+<a href="https://sourcerer.io/madhav2108/">
+  <img align="left" alt="Sparsh's Sourcerer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
+</a>
+<a href="www.instagram.com/madhav_narayan21/">
+  <img align="left" alt="Sparsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://discord.gg/H2so4Maddy#5677">
+  <img align="left" alt="Sparsh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/madhav_2108">
+  <img align="left" alt="Sparsh Garg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/madhav-narayan-khullar-2290641b2/">
+  <img align="left" alt="Sparsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
 
 ---
 ## Thankyou
